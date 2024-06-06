@@ -2,7 +2,7 @@
 /*
 File title: QuickSelect1.hpp
 Author: Ramisha Chowdhury
-Breif Description: Project 3. For QuickSelect1 class 
+Breif Description: Project 3. For QuickSelect1. 
 
 This file will be graded
 */
