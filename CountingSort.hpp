@@ -1,7 +1,7 @@
 /*
 File title: CountingSort.hpp
 Author: Ramisha Chowdhury
-Breif Description: Project 3. For CountingSort class 
+Breif Description: Project 3. For CountingSort 
 
 This file will be graded
 */
