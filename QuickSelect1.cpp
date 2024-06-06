@@ -1,7 +1,7 @@
 /*
 File title: QuickSelect1.cpp
 Author: Ramisha Chowdhury
-Breif Description: Project 3. This will implement QuickSelect1 class 
+Breif Description: Project 3. This will implement QuickSelect1. 
 
 This file will be graded
 */
