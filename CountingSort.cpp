@@ -1,7 +1,7 @@
 /*
 File title: CountingSort.cpp
 Author: Ramisha Chowdhury
-Breif Description: Project 3. This will implement CountingSort class 
+Breif Description: Project 3. This will implement CountingSort. 
 
 This file will be graded
 */
